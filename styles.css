@@ -70,6 +70,14 @@ footer {
 #toss {
   height: 80px;
   margin: 50% 0;
+}
+
+#roll {
+  height: 4em;
   border-radius: 50%;
   box-shadow: 3px 3px 5px 6px #44444497;
+}
+button {
+  background: none;
+  border: none;
 }

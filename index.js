@@ -17,3 +17,7 @@ if (a > b) {
 document
   .querySelector("#dice1")
   .setAttribute("src", "images/dice" + a + ".png");
+
+document
+  .querySelector("#dice2")
+  .setAttribute("src", "images/dice" + b + ".png");
