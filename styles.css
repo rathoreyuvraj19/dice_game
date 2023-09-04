@@ -1,0 +1,75 @@
+html {
+  background-color: #ffc7c7;
+}
+.container {
+  height: 100vh;
+}
+
+#heading {
+  display: block;
+  text-align: center;
+  font-size: 2rem;
+  width: 100vw;
+}
+#Game-name {
+  color: rgb(255, 224, 166);
+}
+
+h1 {
+  background-color: #8785a2;
+  border-radius: 20px;
+  padding: 5px;
+  width: max-content;
+  margin: 30px auto;
+}
+#win {
+  background-color: #f6f6f6;
+  border-radius: 20px;
+  padding: 5px;
+  width: max-content;
+  color: darkturquoise;
+  margin: 30px auto;
+}
+
+#images {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+#p1,
+#p2 {
+  height: 80%;
+}
+
+#smile1,
+#smile2 {
+  font-size: 6rem;
+  margin: 0;
+}
+#smile1 {
+  margin-right: 150px;
+}
+#smile2 {
+  margin-left: 150px;
+}
+
+footer {
+  text-align: center;
+  margin: 20px auto;
+  background-color: #f7f7f7;
+  width: max-content;
+  border-radius: 50%;
+  padding: 10px;
+  color: black;
+  font-weight: 400;
+  font-size: 1.2rem;
+  box-shadow: 5px 3px #0a66c2;
+}
+
+#toss {
+  height: 80px;
+  margin: 50% 0;
+  border-radius: 50%;
+  box-shadow: 3px 3px 5px 6px #44444497;
+}
